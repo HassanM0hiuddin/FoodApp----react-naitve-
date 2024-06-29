@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838079107109",
+    "project_id": "mad-project-54a22",
+    "storage_bucket": "mad-project-54a22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838079107109:android:09d00ba1581e518937efcc",
+        "android_client_info": {
+          "package_name": "com.company.Foodstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfzcsQUMEzTbCY0AxtHDvsgm7W-gcdQc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
